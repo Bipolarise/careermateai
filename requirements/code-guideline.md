@@ -1,0 +1,1 @@
+- Understand the responsibility for the function/file by reading the file do not add code where it should not

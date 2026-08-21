@@ -1,0 +1,263 @@
+.onboarding-page {
+  min-height: 100vh;
+  display: flex;
+}
+
+.onboarding-sidebar {
+  width: 320px;
+  flex-shrink: 0;
+  background: #f9fafc;
+  padding: 37px 32px;
+}
+
+.onboarding-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 700;
+  font-size: 18px;
+  color: #161616;
+  text-decoration: none;
+}
+
+.onboarding-logo img {
+  width: 24px;
+  height: 24px;
+}
+
+.onboarding-steps {
+  list-style: none;
+  margin-top: 96px;
+  display: flex;
+  flex-direction: column;
+}
+
+.onboarding-step {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  height: 24px;
+}
+
+.onboarding-step-connector {
+  width: 1px;
+  height: 32px;
+  background: #dfdfdf;
+  margin-left: 11.5px;
+}
+
+.onboarding-step-circle {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 16px;
+  color: #fff;
+  background: #dfdfdf;
+}
+
+.onboarding-step.is-active .onboarding-step-circle {
+  background: #3266ff;
+}
+
+.onboarding-step-label {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  color: #b5b5b5;
+}
+
+.onboarding-step.is-active .onboarding-step-label {
+  color: #3266ff;
+}
+
+.onboarding-content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  text-align: center;
+}
+
+.onboarding-hero {
+  max-width: 540px;
+}
+
+.onboarding-hero h1 {
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+  color: #161616;
+  margin-bottom: 16px;
+}
+
+.onboarding-hero p {
+  font-size: 14px;
+  line-height: 18px;
+  color: #5c5c5c;
+  margin-bottom: 48px;
+}
+
+.onboarding-form {
+  width: 440px;
+  text-align: left;
+}
+
+.onboarding-form h2 {
+  font-size: 22px;
+  font-weight: 900;
+  line-height: 26px;
+  color: #161616;
+  margin-bottom: 40px;
+}
+
+.onboarding-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.onboarding-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.onboarding-field label {
+  font-size: 14px;
+  line-height: 18px;
+  color: #5c5c5c;
+}
+
+.onboarding-select-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.onboarding-select {
+  width: 100%;
+  height: 48px;
+  font-size: 14px;
+  line-height: 18px;
+  font-family: inherit;
+  color: #161616;
+  padding: 0 40px 0 20px;
+  border: 1px solid #dfdfdf;
+  border-radius: 24px;
+  outline: none;
+  background: #fff;
+  appearance: none;
+  cursor: pointer;
+}
+
+.onboarding-select:invalid {
+  color: #b5b5b5;
+}
+
+.onboarding-select:focus {
+  border-color: #3266ff;
+  box-shadow: 0 0 0 2px rgba(50, 102, 255, 0.12);
+}
+
+.onboarding-select.has-error {
+  border-color: #ff3232;
+}
+
+.onboarding-select:disabled {
+  color: #b5b5b5;
+  background: #f9fafc;
+  cursor: not-allowed;
+}
+
+.onboarding-error {
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: rgba(255, 50, 50, 0.1);
+  color: #ff3232;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.onboarding-select-chevron {
+  position: absolute;
+  right: 18px;
+  pointer-events: none;
+  color: #5c5c5c;
+}
+
+.onboarding-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 48px;
+}
+
+.onboarding-btn {
+  height: 48px;
+  min-width: 102px;
+  padding: 0 24px;
+  border-radius: 24px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border: none;
+  text-decoration: none;
+}
+
+.onboarding-btn-primary {
+  background: linear-gradient(110deg, #504ffd 11%, #40c3fb 92%);
+  color: #fff;
+  width: 200px;
+}
+
+.onboarding-btn-dark {
+  background: #161616;
+  color: #fff;
+}
+
+.onboarding-btn-ghost {
+  background: #fff;
+  color: #161616;
+  border: 1px solid #dfdfdf;
+}
+
+.onboarding-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+@media (max-width: 760px) {
+  .onboarding-page {
+    flex-direction: column;
+  }
+
+  .onboarding-sidebar {
+    width: 100%;
+  }
+
+  .onboarding-steps {
+    margin-top: 32px;
+    flex-direction: row;
+    gap: 16px;
+  }
+
+  .onboarding-step-connector {
+    display: none;
+  }
+
+  .onboarding-form {
+    width: 100%;
+    max-width: 440px;
+  }
+}

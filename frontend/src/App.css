@@ -1,0 +1,45 @@
+.cover {
+  width: 100%;
+  background: #fff;
+  padding: 120px 40px;
+  text-align: center;
+}
+
+.cover-title {
+  font-size: 50px;
+  font-weight: 900;
+  padding: 30px;
+}
+
+.cover-description {
+  padding: 0 0 48px 0;
+}
+
+.cover-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+
+.btn-cover-primary {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  padding: 14px 32px;
+  border-radius: 28px;
+  background: linear-gradient(110deg, #504ffd 11%, #40c3fb 92%);
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn-cover-secondary {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  padding: 14px 32px;
+  border-radius: 28px;
+  border: 1px solid black;
+  color: black;
+  text-decoration: none;
+}

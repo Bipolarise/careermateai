@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="524px" height="288px" viewBox="0 0 524 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4960F47D-0ADF-413B-BF6B-7861CAAC7640</title>
+    <defs>
+        <rect id="path-1" x="102" y="36" width="320" height="95" rx="10"></rect>
+        <filter x="-5.6%" y="-18.9%" width="111.2%" height="137.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.033326049 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="52" y="183" width="200" height="60" rx="10"></rect>
+        <filter x="-9.0%" y="-30.0%" width="118.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.033326049 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="272" y="183" width="200" height="60" rx="10"></rect>
+        <filter x="-9.0%" y="-30.0%" width="118.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.033326049 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CareerMate-AI_Landing-page" transform="translate(-988.000000, -2592.000000)">
+            <g id="编组-17" transform="translate(400.000000, 2032.000000)">
+                <g id="编组-15" transform="translate(580.000000, 552.000000)">
+                    <g id="编组-58" transform="translate(8.000000, 8.000000)">
+                        <rect id="矩形备份-61" x="0" y="0" width="524" height="288"></rect>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="编组-48" transform="translate(152.000000, 126.000000)" fill="#161616">
+                            <circle id="椭圆形" cx="110" cy="5" r="5"></circle>
+                            <path id="路径-2" d="M110.5,5 L110.5,13 C110.5,22.1126984 103.112698,29.5 94,29.5 L16,29.5 C7.43958638,29.5 0.5,36.4395864 0.5,45 L0.5,54.591 L4.06421223,48.2548694 L4.93578777,48.7451306 L0.435787769,56.7451306 L1.66533454e-16,57.5198644 L-0.435787769,56.7451306 L-4.93578777,48.7451306 L-4.06421223,48.2548694 L-0.5,54.591 L-0.5,45 C-0.5,35.8873016 6.88730163,28.5 16,28.5 L94,28.5 C102.560414,28.5 109.5,21.5604136 109.5,13 L109.5,5 L110.5,5 Z" fill-rule="nonzero"></path>
+                            <path id="路径-3" d="M110.5,5 L110.5,13 C110.5,21.5604136 117.439586,28.5 126,28.5 L204,28.5 C213.112698,28.5 220.5,35.8873016 220.5,45 L220.5,54.591 L224.064212,48.2548694 L224.935788,48.7451306 L220.435788,56.7451306 L220,57.5198644 L219.564212,56.7451306 L215.064212,48.7451306 L215.935788,48.2548694 L219.5,54.591 L219.5,45 C219.5,36.4395864 212.560414,29.5 204,29.5 L126,29.5 C116.887302,29.5 109.5,22.1126984 109.5,13 L109.5,5 L110.5,5 Z" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="矩形备份-20">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="矩形备份-21">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="编组-14" transform="translate(64.000000, 195.000000)">
+                            <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                            <g id="编组" transform="translate(1.000000, 1.000000)" stroke="#5C5C5C" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M7,14 C10.865995,14 14,10.865995 14,7 C14,3.134005 10.865995,0 7,0 C3.134005,0 0,3.134005 0,7 C0,10.865995 3.134005,14 7,14 Z" id="路径"></path>
+                                <line x1="0" y1="7" x2="14" y2="7" id="路径"></line>
+                                <path d="M7,14 C8.546405,14 9.8,10.865995 9.8,7 C9.8,3.134005 8.546405,0 7,0 C5.453595,0 4.2,3.134005 4.2,7 C4.2,10.865995 5.453595,14 7,14 Z" id="路径"></path>
+                            </g>
+                        </g>
+                        <g id="编组-14备份" transform="translate(284.000000, 195.000000)">
+                            <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                            <g id="编组" transform="translate(1.000000, 2.500000)" stroke="#5C5C5C" stroke-linejoin="round">
+                                <path d="M2,11 L12,11 C13.1045695,11 14,10.1045695 14,9 L14,5.5 L14,2 C14,0.8954305 13.1045695,-2.02906125e-16 12,0 L7,0 L2,0 C0.8954305,2.02906125e-16 -1.3527075e-16,0.8954305 0,2 L0,5.5 L0,9 C1.3527075e-16,10.1045695 0.8954305,11 2,11 Z" id="路径"></path>
+                                <polyline id="路径" stroke-linecap="round" points="0.8651002 0.64882515 7 5.25 13.1759909 0.618006847"></polyline>
+                            </g>
+                        </g>
+                        <rect id="矩形备份-19" fill="#F6F7FB" x="88" y="197" width="90" height="12" rx="4"></rect>
+                        <rect id="矩形备份-23" fill="#F6F7FB" x="308" y="197" width="90" height="12" rx="4"></rect>
+                        <rect id="矩形备份-22" fill="#F6F7FB" x="88" y="217" width="152" height="12" rx="4"></rect>
+                        <rect id="矩形备份-24" fill="#F6F7FB" x="308" y="217" width="152" height="12" rx="4"></rect>
+                        <text id="Project" font-family="Inter-Regular_Bold, Inter" font-size="14" font-weight="bold" fill="#161616">
+                            <tspan x="118" y="66">Project</tspan>
+                        </text>
+                        <rect id="矩形备份-12" fill="#F6F7FB" x="118" y="77" width="288" height="16" rx="4"></rect>
+                        <rect id="矩形备份-19" fill="#F6F7FB" x="118" y="101" width="212" height="16" rx="4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
